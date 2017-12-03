@@ -1,0 +1,9 @@
+Building OmiseGOClassic
+
+See doc/readme-qt.rst for instructions on building OmiseGOClassic QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OmiseGOClassic.
+
+See doc/build-*.txt for instructions on building omisegoclassicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of OmiseGOClassic.
